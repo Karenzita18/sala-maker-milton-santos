@@ -26,6 +26,8 @@ export function getSortedPostsData() {
             date: matterResult.data.date,
             desc: matterResult.data.desc,
             image: matterResult.data.image,
+            anos: matterResult.data.anos || [],
+            gallery: matterResult.data.gallery || [],
         };
     });
 
@@ -77,6 +79,8 @@ export async function getPostData(id: string) {
         date: matterResult.data.date,
         desc: matterResult.data.desc,
         image: matterResult.data.image,
+        anos: matterResult.data.anos || [],
+        gallery: matterResult.data.gallery || [],
         contentHtml,
     };
 }

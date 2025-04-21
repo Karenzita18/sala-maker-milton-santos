@@ -4,4 +4,6 @@ type BlogPost = {
     date: string,
     desc: string,
     image: string,
+    anos?: number[],
+    gallery?: string[],
 }

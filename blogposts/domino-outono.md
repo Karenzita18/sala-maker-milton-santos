@@ -1,8 +1,13 @@
 ---
-title: 'Como escolher o melhor lote para sua família'
-desc: '“Escolher o lote ideal para sua família envolve considerar a localização, infraestrutura...'
+title: 'Dominó do Outono'
+desc: '“Lorem Ipsum is simply dummy text of the printing and typesetting industry...'
 date: '26 de junho de 2024'
 image: '/img/blog/melhor-lote-familia.webp'
+anos: [6]
+gallery:
+  - "/images/foto1.jpg"
+  - "/images/foto2.jpg"
+  - "/images/foto3.jpg"
 ---
 
 “Escolher o lote ideal para sua família envolve considerar a localização, infraestrutura, segurança e proximidade de serviços essenciais.

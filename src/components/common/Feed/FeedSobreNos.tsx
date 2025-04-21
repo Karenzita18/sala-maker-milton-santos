@@ -1,6 +1,6 @@
 const FeedSobreNos = () => {
     return (
-      <section className="py-24 bg-brand-400/20" id="equipe">
+      <section className="py-24 bg-brand-400" id="equipe">
         <div className="container">
           <div className="row">
             <div className="grid md:grid-cols-2 grid-cols-1 gap-4 items-center">
@@ -14,7 +14,7 @@ const FeedSobreNos = () => {
                 <p>
                   Lorem
                 </p>
-                <h2 className="text-lg font-semibold text-brand-600">
+                <h2 className="text-lg font-semibold text-brand-600 mt-3">
                   Técnica Karen
                 </h2>
                 <p>
