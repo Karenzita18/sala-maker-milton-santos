@@ -19,7 +19,7 @@ export default function ListItem({ post }: Props) {
                     />
                 </figure>
                 <span className="md:text-md text-sm text-black">
-                    Machpela | {date}
+                    Sala Maker | {date}
                 </span>
                 <h1 className="text-2xl md:text-2xl font-bold !leading-none text-brand-300 mt-2 mb-2">
                     {title}

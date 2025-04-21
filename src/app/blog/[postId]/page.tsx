@@ -41,9 +41,7 @@ export default async function Post({ params }: { params: { postId: string } }) {
       <section>
         <div className="container">
           <div className="row">
-              <div>
-                <Image src={image} alt={title} width={600} height={600} />
-              </div>
+              
               <div>
                 <p
                   className="blog_content md:mt-0 mt-4 text-justify text-md space-y-4"
