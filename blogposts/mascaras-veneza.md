@@ -1,7 +1,7 @@
 ---
 title: 'Máscaras de Veneza'
 desc: '“Acreditamos que a criatividade pode ser uma ponte poderosa entre o fazer e o sentir...'
-date: '29 de março de 2025'
+date: '24 de março de 2025'
 image: '/img/blog/carnaval-veneza/capa.webp'
 anos: [8, 9]
 gallery:

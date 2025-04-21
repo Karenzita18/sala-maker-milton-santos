@@ -24,7 +24,7 @@ export default function Posts({ posts }: Props) {
         post.anos?.some((ano: number) => selectedYears.includes(ano))
       );
 
-  const postsPerPage = 6;
+  const postsPerPage = 4;
   const indexOfLastPost = currentPage * postsPerPage;
   const indexOfFirstPost = indexOfLastPost - postsPerPage;
   const currentPosts = filteredPosts.slice(indexOfFirstPost, indexOfLastPost);

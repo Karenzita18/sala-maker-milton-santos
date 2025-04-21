@@ -12,10 +12,11 @@ export default function ListItem({ post }: Props) {
     return (
         <li className="mt-4 text-2xl dark:text-white/90">
             <article className=" group">
-                <figure className="overflow-hidden rounded mb-1">
+                <figure className="overflow-hidden rounded mb-1 w-full h-[318px]">
                     <img
                         src={image}
-                        className="group-hover:rotate-1 group-hover:scale-110 duration-300 delay-100"
+                        alt={title}
+                        className="w-full h-full object-cover group-hover:rotate-1 group-hover:scale-110 duration-300 delay-100"
                     />
                 </figure>
                 <span className="md:text-md text-sm text-black">
