@@ -13,9 +13,20 @@ const montserrat = Montserrat({
 
 export const metadata: Metadata = {
   title: "SALA MAKER | MILTON SANTOS",
-  description: "",
+  description: "Espaço dedicado à criatividade, tecnologia e inovação no Colégio Milton Santos. A Sala Maker promove o aprendizado prático com projetos de robótica, programação, eletrônica, impressão 3D e muito mais, desenvolvendo habilidades do século XXI em um ambiente colaborativo.",
   keywords: [
-    "",
+    "Sala Maker", 
+    "Milton Santos", 
+    "educação maker", 
+    "robótica educacional", 
+    "programação para crianças", 
+    "impressão 3D na escola", 
+    "eletrônica educacional", 
+    "inovação na educação", 
+    "projetos escolares", 
+    "tecnologia na escola", 
+    "aprendizado criativo", 
+    "espaço maker"
   ],
   alternates: {
     canonical: "machpela.com",
