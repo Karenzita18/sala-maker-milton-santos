@@ -9,7 +9,7 @@ const FeedHistoria = () => {
     };
 
     return (
-      <section className="md:py-14">
+      <section className="md:mt-20 mt-24">
         <div className="container">
           <div className="row">
             <div className="grid md:grid-cols-2 grid-cols-1 gap-4 items-center">
