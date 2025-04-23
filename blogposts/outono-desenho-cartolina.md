@@ -1,6 +1,6 @@
 ---
 title: 'Desenho do Outono'
-desc: '“O outono chegou na sala maker de um jeito muito especial...'
+desc: 'O outono chegou na sala maker de um jeito muito especial...'
 date: '28 de março de 2025'
 image: '/img/blog/outono-desenho/capa.webp'
 anos: [1, 2]

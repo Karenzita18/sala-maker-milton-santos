@@ -17,11 +17,11 @@ const FeedHistoria = () => {
                 <img 
                   src="/img/sala-maker.jpeg" 
                   alt="" 
-                  className="rounded-lg max-w-[35rem] mx-auto"
+                  className="rounded-lg md:max-w-[35rem] mx-auto"
                 />
               </div>
               <div>
-                <h1 className="md:text-2xl font-bold text-brand-300 mb-3">
+                <h1 className="text-2xl  font-bold text-brand-300 mb-3">
                     Sala Maker - EMEF Professor Milton Santos
                 </h1>
                 <p className="mb-3 text-justify">

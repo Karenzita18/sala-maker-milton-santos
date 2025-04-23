@@ -1,18 +1,18 @@
 const FeedSobreNos = () => {
     return (
-      <section className="py-24 bg-brand-400" id="equipe">
+      <section className="md:py-24 bg-brand-400" id="equipe">
         <div className="container">
           <div className="row">
             <div className="grid md:grid-cols-2 grid-cols-1 gap-4 items-center">
               <div>
-                <h1 className="md:text-2xl font-bold text-brand-300 mb-3">
+                <h1 className="md:text-2xl text-3xl md:text-justify text-center font-bold text-brand-300 mb-3">
                   Nossa Equipe
                 </h1>
                 <h2 className="text-lg font-semibold text-brand-600">
                   Profª Priscila
                 </h2>
                 <p>
-                  Lorem
+                  Formada em Ciências Biológicas pela Universidade de São Paulo, pós-graduada em Educação especial, com ênfase em autismo e pós -graduanda em gestão escolar. Professora há 12 anos, apaixonada pela educação e todo o potencial de mudar o mundo através dela.
                 </p>
                 <h2 className="text-lg font-semibold text-brand-600 mt-3">
                   Técnica Karen
@@ -25,7 +25,7 @@ const FeedSobreNos = () => {
                 <img 
                   src="/img/profs.webp" 
                   alt="" 
-                  className="rounded-lg max-w-[30rem] mx-auto"
+                  className="rounded-lg md:max-w-[30rem] mx-auto"
                 />
               </div>
             </div>

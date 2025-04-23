@@ -1,6 +1,6 @@
 ---
 title: 'Máscaras de Carvanal'
-desc: '“acreditamos que a criatividade pode (e deve!) começar desde cedo...'
+desc: 'Acreditamos que a criatividade pode (e deve!) começar...'
 date: '28 de fevereiro de 2025'
 image: '/img/blog/mascaras/capa.webp'
 anos: [1, 2, 3, 4, 5, 6, 7]

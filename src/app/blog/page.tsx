@@ -9,7 +9,7 @@ export default async function Home() {
     <main>
       <Breadcrumb
         title="Blog"
-        desc="Lorem"
+        desc="Confira nossas postagens"
       />
       <Posts posts={posts} /> {/* Passe os posts como prop */}
     </main>

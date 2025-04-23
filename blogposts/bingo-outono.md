@@ -1,6 +1,6 @@
 ---
 title: 'Bingo do Outono'
-desc: '“Durante essa temporada encantadora de folhas secas e clima...'
+desc: 'Durante essa temporada encantadora de folhas secas e clima...'
 date: '05 de abril de 2025'
 image: '/img/blog/bingo-outono/capa.webp'
 anos: [3, 4, 5]
@@ -10,6 +10,16 @@ gallery:
   - "/img/blog/bingo-outono/3.webp"
   - "/img/blog/bingo-outono/4.webp"
   - "/img/blog/bingo-outono/5.webp"
+  - "/img/blog/bingo-outono/6.webp"
+  - "/img/blog/bingo-outono/7.webp"
+  - "/img/blog/bingo-outono/8.webp"
+  - "/img/blog/bingo-outono/9.webp"
+  - "/img/blog/bingo-outono/10.webp"
+  - "/img/blog/bingo-outono/11.webp"
+  - "/img/blog/bingo-outono/12.webp"
+  - "/img/blog/bingo-outono/13.webp"
+  - "/img/blog/bingo-outono/14.webp"
+  - "/img/blog/bingo-outono/15.webp"
 ---
 
 ## 🍂 Bingo de Outono: Aprendizado e Diversão na Sala Maker!
