@@ -66,8 +66,8 @@ export default function Posts({ posts }: Props) {
 
         {/* Coluna lateral com filtro de anos */}
         <aside className="lg:col-span-1">
-          <h2 className="text-xl font-semibold mb-4">Filtrar por ano</h2>
-          <div className="flex flex-col gap-2">
+          <h2 className="text-xl font-semibold mb-4 text-brand-300">Filtrar por ano</h2>
+          <div className="flex flex-col gap-2 mb-5">
             {Array.from({ length: 9 }, (_, i) => i + 1).map(year => (
               <button
                 key={year}
