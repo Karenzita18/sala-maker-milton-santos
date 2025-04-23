@@ -18,7 +18,7 @@ export default function PostagensRecentes() {
                         href="/blog"
                         className="px-6 py-4 bg-brand-300 text-white font-bold rounded-lg hover:bg-brand-500 transition duration-300"
                     >
-                        Conheça Nossa Equipe
+                        Acesse nosso blog
                     </Link>
                 </div>
 

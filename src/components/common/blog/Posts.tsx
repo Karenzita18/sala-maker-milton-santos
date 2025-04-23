@@ -33,7 +33,7 @@ export default function Posts({ posts }: Props) {
   const paginate = (pageNumber: number) => setCurrentPage(pageNumber);
 
   return (
-    <section className="">
+    <section className="md:py-10 py-0">
       <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
 
         {/* Coluna principal com os posts */}
