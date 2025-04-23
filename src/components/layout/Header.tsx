@@ -181,7 +181,7 @@ export default function Header() {
                         key={item.name}
                         href={item.href}
                         onClick={() => setIsOpen(false)}
-                        className="cursor-pointer text-brand-300 block px-3 py-2 rounded-md text-base font-medium tracking-wider"
+                        className="cursor-pointer text-brand-300 block px-3 py-2 rounded-md text-lg font-medium tracking-wider"
                       >
                         {item.name}
                       </Link>
