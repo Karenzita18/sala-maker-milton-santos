@@ -17,19 +17,19 @@ import { Link as Scroll } from "react-scroll";
 const Footer = () => {
   const data = new Date(Date.now());
   return (
-    <footer className={`bg-brand-500/70`}>
-      <div className="row py-8 px-5">
+    <footer className={`bg-brand-500`}>
+      <div className="row md:py-8 py-3 px-5">
         <div className="container">
           <div className="grid grid-cols-4 md:gap-3">
-            <div className="col-span-4 md:col-span-1">
-              <div className="md:max-w-[10rem] max-w-[10rem] ">
+            <div className="col-span-4 md:col-span-1 mb-3">
+              <div className="md:max-w-[11rem] max-w-[12rem] ">
                 <Link
                   href="/"
                 >
                   <Image
-                    src="/img/logo.png"
-                    width={600}
-                    height={189}
+                    src="/img/logooficial1.png"
+                    width={400}
+                    height={400}
                     alt="Logo Footer" 
                   />
                 </Link>
@@ -62,12 +62,11 @@ const Footer = () => {
                 <ul className="flex gap-y-2 flex-col">
                   <li className="hover:text-brand-50 transition duration-500">
                     <a
-                      href=""
+                      href="https://www.instagram.com/emefpraiazul/"
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="p-3"
                     >
-                      <FaInstagram />
+                      <FaInstagram className="text-2xl"/>
                     </a>
                   </li>
                 </ul>
@@ -89,12 +88,12 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <div className="bg-brand-300 py-3 px-5">
+      <div className="bg-brand-300 py-1 px-5">
         <div className="container flex place-content-center gap-1 py-3">
           <div className="flex items-center text-center">
             <p className="text-white text-md">
                © {data.getFullYear()} Todos os direitos reservados. Desenvolvido por <span className="hover:underline">
-                <a href="http://" target="_blank" rel="noopener noreferrer"> Karen Souza</a>
+                <a href="https://www.karencode.com.br/" target="_blank" rel="noopener noreferrer"> Karen Souza</a>
                </span>
             </p>
           </div>

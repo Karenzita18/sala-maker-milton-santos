@@ -14,7 +14,7 @@ import {
 import { Menu, Transition } from "@headlessui/react";
 import Link from "next/link";
 import Image from "next/image";
-import Logo from "../../../public/img/logo.png";
+import Logo from "../../../public/img/logooficial1.png";
 import { usePathname } from "next/navigation";
 import { Link as Scroll } from "react-scroll";
 import navigation from "./navigation";
@@ -30,7 +30,7 @@ export default function Header() {
     logoAlt: "Sala Maker | Milton Santos",
     redeSocial: {
       facebook: "",
-      instagram: "",
+      instagram: "https://www.instagram.com/emefpraiazul/",
       whatsapp:
         "/",
     },
@@ -84,7 +84,7 @@ export default function Header() {
                 <div className="flex justify-center items-center flex-shrink-0 max-w-[240px] md:max-w-[300px]">
                   <Link
                     href="/"
-                    className="cursor-pointer max-w-[6rem] md:max-w-[8.5rem]"
+                    className="cursor-pointer max-w-[8rem] md:max-w-[8rem]"
                   >
                     
                     <Image
