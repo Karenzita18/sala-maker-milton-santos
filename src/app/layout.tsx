@@ -57,12 +57,12 @@ export const metadata: Metadata = {
     },
   },
   icons: {
-    icon: "/img/favicon.webp",
-    shortcut: "/img/favicon.webp",
-    apple: "/img/favicon.webp",
+    icon: "../img/favicon.webp",
+    shortcut: "../img/favicon.webp",
+    apple: "../img/favicon.webp",
     other: {
       rel: "apple-touch-icon-precomposed",
-      url: "/img/favicon.webp",
+      url: "../img/favicon.webp",
     },
   },
 };
