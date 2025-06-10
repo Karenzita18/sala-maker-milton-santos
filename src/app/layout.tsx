@@ -57,12 +57,12 @@ export const metadata: Metadata = {
     },
   },
   icons: {
-    icon: "/img/favicon.webp",
-    shortcut: "/img/favicon.webp",
-    apple: "/img/favicon.webp",
+    icon: "https://salamaker-praiaazul.vercel.app/img/favicon.webp",
+    shortcut: "https://salamaker-praiaazul.vercel.app/img/favicon.webp",
+    apple: "https://salamaker-praiaazul.vercel.app/img/favicon.webp",
     other: {
       rel: "apple-touch-icon-precomposed",
-      url: "/img/favicon.webp",
+      url: "https://salamaker-praiaazul.vercel.app/img/favicon.webp",
     },
   },
 };
